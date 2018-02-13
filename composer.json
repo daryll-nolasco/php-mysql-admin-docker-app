@@ -1,0 +1,16 @@
+{
+    "name": "daryll-nolasco/php-mysql-admin-docker-app",
+    "description": "Measurement unit test",
+    "type": "application",
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Daryll Nolasco",
+            "email": "xdanolasco@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
